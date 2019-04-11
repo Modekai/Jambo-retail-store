@@ -52,5 +52,3 @@ class App extends Component {
 }
 
 export default App;
-
-// helo out
