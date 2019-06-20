@@ -44,3 +44,5 @@ class Counter extends Component {
 }
 
 export default Counter;
+
+console.log("test");
